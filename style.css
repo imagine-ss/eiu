@@ -2135,19 +2135,19 @@ blockquote {
   margin: 20px;
   padding: 0px 0px 4px;
   border-bottom: 3px solid transparent;
-  color: #2c3a3a;
+  color: #283890;
   font-weight: 700;
   text-transform: uppercase;
 }
 
 .nav-link:hover {
-  border-bottom: 3px solid #2c3a3a;
+  border-bottom: 3px solid #283890;
 }
 
 .nav-link.w--current {
   margin: 20px;
   padding: 0px 0px 4px;
-  color: #2c3a3a;
+  color: #283890;
 }
 
 .nav-link.white-links {
@@ -2206,7 +2206,7 @@ blockquote {
 
 .section-hero {
   height: 120vh;
-  background-image: url("https://res.cloudinary.com/dbskfmbc8/image/upload/v1665048229/EIU/eiu_-_Edited_pomjhh.jpg");
+  background-image: url("https://res.cloudinary.com/dbskfmbc8/image/upload/v1665579692/EIU/image9_-_Edited_gnvko7.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -2241,7 +2241,7 @@ blockquote {
 }
 
 .paragraph-m {
-  color: #2c3a3a;
+  color: #283890;
   font-size: 17px;
   line-height: 1.3;
 }
@@ -2257,13 +2257,13 @@ blockquote {
 .paragraph-m.all-caps {
   margin-top: 10px;
   margin-bottom: 0px;
-  color: #f0e3d0;
+  color: #e7f5f5;
   font-size: 18px;
   text-transform: uppercase;
 }
 
 .paragraph-m.all-caps.dark {
-  color: #2c3a3a;
+  color: #283890;
 }
 
 .paragraph-m.bold {
@@ -2314,7 +2314,7 @@ blockquote {
 }
 
 .paragraph-m.black-caps {
-  color: #2c3a3a;
+  color: #283890;
   text-transform: uppercase;
 }
 
@@ -2384,10 +2384,10 @@ blockquote {
   margin-right: 0px;
   padding-right: 30px;
   padding-left: 30px;
-  border-color: #2c3a3a;
+  border-color: #283890;
   -webkit-transition: background-color 200ms ease;
   transition: background-color 200ms ease;
-  color: #2c3a3a;
+  color: #283890;
 }
 
 .button.black:hover {
@@ -2426,7 +2426,7 @@ blockquote {
 }
 
 .section-notifications {
-  background-color: #f0e3d0;
+  background-color: #e7f5f5;
 }
 
 .grid {
@@ -2485,7 +2485,7 @@ blockquote {
   width: 80%;
   margin: -96px auto -85px;
   border-radius: 15px;
-  background-color: #a3703b;
+  background-color: #283890;
 }
 
 .div-stats.mobile {
@@ -2551,7 +2551,7 @@ blockquote {
 }
 
 .number.dark {
-  color: #2c3a3a;
+  color: #283890;
 }
 
 .number.dark.smaller {
@@ -2820,7 +2820,7 @@ blockquote {
   -webkit-align-items: flex-start;
   -ms-flex-align: start;
   align-items: flex-start;
-  background-color: #2c3a3a;
+  background-color: #283890;
   text-align: center;
 }
 
@@ -2857,7 +2857,7 @@ blockquote {
 
 .heading-m {
   font-family: "Playfair Display", sans-serif;
-  color: #2c3a3a;
+  color: #283890;
   font-size: 24px;
   line-height: 1.3;
   font-weight: 400;
@@ -3023,7 +3023,7 @@ blockquote {
 
 .link-s {
   border-bottom: 2px solid transparent;
-  color: #2c3a3a;
+  color: #283890;
   font-weight: 500;
   text-decoration: none;
 }
@@ -3066,7 +3066,7 @@ blockquote {
 }
 
 .paragraph-l.brown-caps {
-  color: #a3703b;
+  color: #283890;
   text-transform: uppercase;
 }
 
@@ -3126,7 +3126,7 @@ blockquote {
   width: 100%;
   height: 100%;
   border-top-right-radius: 10px;
-  background-color: #f0e3d0;
+  background-color: #e7f5f5;
   text-decoration: none;
 }
 
@@ -3137,7 +3137,7 @@ blockquote {
   margin-right: 0px;
   margin-left: 0px;
   border-top-right-radius: 0px;
-  background-color: #f0e3d0;
+  background-color: #e7f5f5;
 }
 
 .box-link.dark {
@@ -3145,7 +3145,7 @@ blockquote {
   margin-top: 0px;
   border-top-right-radius: 0px;
   border-bottom-right-radius: 10px;
-  background-color: #a3703b;
+  background-color: #283890;
 }
 
 .div-contain {
@@ -3166,7 +3166,7 @@ blockquote {
 }
 
 .section-principal {
-  background-color: #f0e3d0;
+  background-color: #e7f5f5;
 }
 
 .div-president {
@@ -3364,7 +3364,7 @@ blockquote {
   width: 100%;
   height: 400px;
   margin-top: -381px;
-  background-color: #f0e3d0;
+  background-color: #e7f5f5;
 }
 
 .div-marginal-background.green {
@@ -3412,13 +3412,13 @@ blockquote {
 .div-chip.right {
   margin-left: 15px;
   border-radius: 3px;
-  background-color: #f0e3d0;
+  background-color: #e7f5f5;
 }
 
 .div-chip.dark-green {
   margin-bottom: 10px;
   border-radius: 3px;
-  background-color: #2c3a3a;
+  background-color: #283890;
 }
 
 .slider-testimonial-cards {
@@ -3892,7 +3892,7 @@ blockquote {
   margin-bottom: 30px;
   padding: 20px 30px;
   border-radius: 5px;
-  background-color: #f0e3d0;
+  background-color: #e7f5f5;
 }
 
 .div-text-online {
@@ -3934,12 +3934,12 @@ blockquote {
   display: flex;
   padding-top: 20px;
   border-top: 4px solid transparent;
-  color: #2c3a3a;
+  color: #283890;
   text-decoration: none;
 }
 
 .link-block:hover {
-  border-top: 4px solid #a3703b;
+  border-top: 4px solid #283890;
 }
 
 .div-date {
@@ -4058,7 +4058,7 @@ blockquote {
 .section-tabs {
   padding-top: 40px;
   padding-bottom: 100px;
-  background-color: #f0e3d0;
+  background-color: #e7f5f5;
 }
 
 .tab-link {
@@ -4071,9 +4071,9 @@ blockquote {
 }
 
 .tab-link.w--current {
-  border-bottom: 3px solid #a3703b;
+  border-bottom: 3px solid #283890;
   background-color: transparent;
-  color: #a3703b;
+  color: #283890;
 }
 
 .tab-link.last {
@@ -4814,11 +4814,11 @@ blockquote {
 @media screen and (max-width: 991px) {
   .nav-link {
     padding-left: 40px;
-    color: #2c3a3a;
+    color: #283890;
   }
 
   .nav-link.white-links {
-    color: #2c3a3a;
+    color: #283890;
   }
 
   .container {
@@ -6222,7 +6222,7 @@ blockquote {
     height: auto;
     padding-top: 0px;
     padding-bottom: 60px;
-    background-color: #f0e3d0;
+    background-color: #e7f5f5;
   }
 
   .section-courses.green {
